@@ -16,12 +16,8 @@
 
 An internal security audit assessment done on Botium Toys, a fictitious toy company, completed as part of my cybersecurity portfolio and as part of Google's <a href='https://www.coursera.org/google-certificates/cybersecurity-certificate'>Cybersecurity Professional Certificate</a> on Coursera in the  <a href='https://www.coursera.org/learn/manage-security-risks?specialization=cybersecurity-certificate'> Play It Safe: Manage Security Risks </a> Course .
    
-The goal is to perform an audit of Botium Toys’ cybersecurity program. The audit needs
-to align current business practices with industry standards and best practices. The
-audit is meant to provide mitigation recommendations for vulnerabilities found that are
-classified as “high risk,” and present an overall strategy for improving the security
-posture of the organization. The audit team needs to document their findings, provide
-remediation plans and efforts, and communicate with stakeholders.
+The purpose of this audit is to evaluate Botium Toys’ cybersecurity program. It will assess current business practices and ensure they align with industry standards and best practices. The audit will also provide mitigation recommendations for any vulnerabilities identified as high risk and outline an overall strategy to strengthen the organization’s security posture. The audit team will document all findings, develop remediation plans, track corrective efforts, and communicate results to key stakeholders.
+
 
 ## Documents
 
