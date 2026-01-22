@@ -35,28 +35,37 @@ To begin, the IT manager applies the **National Institute of Standards and Techn
 ------------------------
 
 
-The goals for Botium Toys’ internal IT audit are:
-- To adhere to the National Institute of Standards and Technology Cybersecurity
-Framework (NIST CSF)
-- Establish a better process for their systems to ensure they are compliant
-- Fortify system controls
-- Implement the concept of least permissions when it comes to user credential
-management
-- Establish their policies and procedures, which includes their playbooks
-- Ensure they are meeting compliance requirements
+# The objectives of Botium Toys’ internal IT audit include:
 
+- Aligning the audit with the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF)
+
+- Improving system processes to support stronger compliance practices
+
+- Strengthening and enhancing existing security controls
+
+- Applying the principle of least privilege in user access and credential management
+
+- Developing and formalizing policies, procedures, and incident response playbooks
+
+- Ensuring the organization meets all required compliance standards and regulations
    
 ## Internal Security Audit Workflow  <a name="workflow">
 The internal security audit can be broken down into two parts each with their own steps to follow.
 
 ### Part 1
-1. Analyze the audit scope, audit goals, and risk assessment
-2. Conduct the Audit
-   - Complete Controls assessment 
-     - Select controls needing to be implemented.
-     - Rate each selected control on prioirty (i.e. needing to be implemented immediately or in the future).
-   - Complete Compliance checklist
-     - Explain why selected compliance regulations and standards need to be adhered to.
+1. Review and evaluate the audit scope, audit goals, and risk assessment.
+2. Conduct the audit by completing the following:
+
+  Controls Assessment
+
+  - Identify which security controls should be implemented.
+
+  - Assign a priority level to each control (e.g., immediate implementation vs. future improvement).
+
+  Compliance Checklist
+
+  - Describe why the selected compliance regulations and standards must be followed.
+    
 ### Part 2
 1. Review results and deliverables completed in Part 1, Step #2
    - make note of findings
