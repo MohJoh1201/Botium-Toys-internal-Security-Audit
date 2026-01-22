@@ -1,49 +1,96 @@
 # Botium Toys Internal Security Audit
 
-# Project Overview
-This project contains an internal security audit for **Botium Toys**, a fictional company, based on the **NIST Cybersecurity Framework (NIST CSF)**.
+## Project Overview
 
-The goal of this audit is to evaluate the organization’s current security posture, identify risks, and provide recommendations to improve security controls and compliance.
-
----
-
-#
-Audit Scope & Goals
-- Review Botium Toys’ security controls, policies, and procedures
-- Identify security gaps and vulnerabilities
-- Evaluate compliance best practices
-- Provide recommendations to reduce risk and improve security posture
+Botium Toys is a small business that develops and sells toys. This audit evaluates the company’s security posture based on current controls, threats, risks, and compliance standards. The goal is to identify weaknesses and recommend improvements to strengthen information security, protect customer data, and comply with applicable standards.
 
 ---
 
-# Documents Included
-- [Controls and Compliance Checklist](documents/Controls%20and%20compliance%20checklist.docx)
-- [Scope, Goals, and Risk Assessment Report](documents/Botium%20Toys%20Scope,%20goals,%20and%20risk%20assessment%20report.docx)
+## 📂 Documents
 
+The following documents are included in this repository:
 
----
+- **Audit scope, goals, and risk assessment report**  
+  `documents/Botium Toys Scope, goals, and risk assessment report.docx`
 
-# Key Findings
-- Missing encryption for sensitive customer and credit card data
-- No backups or disaster recovery plan
-- No intrusion detection system (IDS)
-- Lack of least privilege and separation of duties
-- No centralized password management system
+- **Controls and compliance checklist**  
+  `documents/Controls and compliance checklist.docx`
 
 ---
 
-# Frameworks & Standards Referenced
-- NIST CSF
-- PCI DSS
-- GDPR
-- SOC Type 1 / SOC Type 2
+## 🔍 Key Findings
+
+The audit revealed several gaps in Botium Toys’ security posture, including:
+
+- Lack of encryption for sensitive data (PII/SPII and payment information)  
+- Missing backups and no documented disaster recovery plan  
+- No intrusion detection system (IDS)  
+- Lack of least privilege and separation of duties  
+- Password management system not implemented
 
 ---
 
-# Recommendations
-- Implement encryption for data at rest and in transit
-- Create backups and disaster recovery plans
-- Deploy IDS and improve monitoring
-- Apply least privilege and separation of duties
-- Implement a password management system and stronger password policies
+## 🧾 Compliance Evaluation Results
+
+### **PCI DSS**
+- Customer card data is not encrypted in transit or at rest  
+- Secure storage and key management procedures are missing  
+- Access is not limited only to authorized users
+
+### **GDPR**
+- E.U. customer data is maintained securely  
+- Data breach notification policy exists (72-hour window)
+- Data classification & inventory processes are incomplete
+
+### **SOC (Type 1 / Type 2)**
+- Data integrity and availability are ensured  
+- Access policies need formal documented implementation  
+- Sensitive data confidentiality protections are incomplete
+
+---
+
+## 🛠 Security Control Assessment
+
+The following controls were reviewed:
+
+| Control | Implemented |
+|----------|-------------|
+| Least Privilege | ❌ |
+| Password Policies | ✔️ |
+| Firewall | ✔️ |
+| IDS | ❌ |
+| Encryption | ❌ |
+| Backups | ❌ |
+| Antivirus | ✔️ |
+| Physical locks & CCTV | ✔️ |
+| Fire detection/prevention | ✔️ |
+
+---
+
+## 📸 Screenshots
+
+Below are screenshots from the completed internal audit tasks:
+
+![Checklist Screenshot](images/your-checklist-file.png)  
+*Completed internal controls checklist overview.*
+
+---
+
+## 🧠 Recommendations
+
+The following actions are highly recommended to improve Botium Toys’ security posture:
+
+- Implement data encryption for all sensitive information  
+- Establish backups and a formal disaster recovery plan  
+- Deploy an intrusion detection system (IDS)  
+- Enforce least privilege and separation of duties  
+- Adopt a centralized password management system  
+- Formalize user access policies and documentation
+
+---
+
+## 📌 Notes
+
+This internal audit is based on the NIST Cybersecurity Framework (NIST CSF) and evaluates applicable security controls, best practices, and compliance standards such as PCI DSS, GDPR, and SOC 1/2.
+
 
