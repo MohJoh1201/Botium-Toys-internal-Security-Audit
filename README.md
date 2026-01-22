@@ -244,23 +244,24 @@ The following physical controls should be considered in the future once the crit
 
 **Summary/Recommendations:**
 
-It is recommended that the critical findings relating to compliance with PCI and GDPR be promptly addressed as Botium Toys accepts online payments is expanding to offer services and handle the data of customers abroad including the European Union. SOC1 and SOC2 guidance related to user access policies should be used to align to the audit goal to adapt to the concept of least permissions to develop the policies and procedures needed to be compliant.
+It is strongly recommended that Botium Toys addresses the most critical compliance-related findings, especially those involving **PCI DSS** and **GDPR**, as soon as possible. Since the company processes online payments and is expanding its services to customers outside the U.S., including those in the **European Union**, it must ensure customer data is protected and handled in accordance with required regulations. In addition, **SOC 1 and SOC 2** guidance related to user access policies should be applied to support the audit goal of enforcing **least privilege** and strengthening the organization’s policies and procedures to maintain compliance.
 
-Disaster recovery plans and backups are recommended as they will support business continuity in the event of an incident occuring ranging from a physical disaster such as a fire, or worse case scenario of a cyber attack or technical issue impacting business productivity  as a part of a data and system resilience strategy. A method of fire detection and prevention systems is worth consideration for protecting against physical attacks.
+Implementing **disaster recovery plans** and **data backups** is also highly recommended to support business continuity if an incident occurs. This could include physical events such as a fire, or more serious situations such as a cyberattack or major technical failure that disrupts productivity. These measures contribute to a stronger resilience strategy for both systems and data. Investing in **fire detection and prevention systems** is also an important consideration to reduce the impact of physical threats.
 
-Integrating an IDS and AV software into current systems will give the ability to assist with intrusion detection and spot and mitigate potential risks while taking into account the existing legacy systems that need manual monitoring and intervention. 
+Additionally, integrating an **Intrusion Detection System (IDS)** and maintaining **antivirus (AV) software** will improve Botium Toys’ ability to detect suspicious activity and respond to potential threats. These controls are especially important given the presence of legacy systems, which require ongoing manual monitoring and intervention.
 
-To secure assets at Botium Toys' phyiscal location, locks and CCTV should be used to secure physical assets and to monitor for potential threats. Having a time-controlled safe, adequate lighting, and signage indicating alarm service provider will further improve Botium Toys' security posture.
+Finally, to protect physical assets at Botium Toys’ location, the organization should continue using **locks** and **CCTV surveillance** to restrict unauthorized access and monitor for threats. Adding further physical deterrents such as a **time-controlled safe**, **adequate lighting**, and **signage indicating an alarm service provider** would further strengthen Botium Toys’ overall security posture.
+
    
 # Conclusion  <a name="conclusion">
  This concludes my mock security audit writeup, I hope you found it useful and enlightening as I have. If there is any constructive feedback or  suggestions to improve and include, just let me know. 
 
-**Self-Evaluation**: I did mostly well in determining what controls are top priority and need implementation immediately in reducing risk and why Botium Toys would need to comply to the regulations and standards I initially picked on my first try. I really loved the challenge of this assignment and tested what I have learned in my studies and hands-on learning. 
+**Self-Evaluation**: I performed well in identifying which security controls should be treated as top priority and implemented immediately to reduce risk. I also clearly explained why Botium Toys must comply with the regulations and standards I selected during my first attempt. I genuinely enjoyed the challenge of this assignment, as it allowed me to apply and test what I have learned through my studies and hands-on experience.
 
 **Lessons learned**: 
-    The part I struggled with mostly was using much details in my findings in the stakeholder's memorandum. I learned and spent alot of time on this to be more concisely and to the point. I learned to use a list, have my writing proofread and ensure I didnt repeat anything and to filter out information.
+    The main area I struggled with was adding too much detail in my findings for the stakeholder memorandum. I spent a lot of time improving this by learning how to be more concise and direct. I also learned to organize my points using lists, proofread my writing, avoid repeating information, and filter out unnecessary details to make the message clearer and more effective.
    
-   I also some trouble initially in explaining how the System and Organizations Controls standard relates to organizational user access policies, confidentiality, privacy, integrity, availability, security, and overall data safety and levels of risks, not just financial compliance while conducting the audit.
+   I also initially had some difficulty explaining how the **System and Organization Controls (SOC)** standards connect to organizational user access policies and key security principles such as confidentiality, privacy, integrity, availability, and overall data protection. Over time, I better understood that SOC is not only focused on financial compliance, but also plays an important role in evaluating security controls, data safety, and risk levels during an audit.
 
 
 
