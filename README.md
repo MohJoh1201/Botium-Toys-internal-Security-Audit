@@ -25,11 +25,12 @@ The purpose of this audit is to evaluate Botium Toys’ cybersecurity program. I
 - [Scope, Goals, and Risk Assessment Report](documents/Botium%20Toys%20Scope,%20goals,%20and%20risk%20assessment%20report.docx)
 
 # Scenario  <a name="scenario">
-Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location. However, its online presence has grown, attracting customers in the U.S. and abroad. Their information technology (IT) department is under increasing pressure to support their online market worldwide. 
+Botium Toys is a small toy company based in the United States that designs and sells toys. While the company operates from one physical location, its online sales have expanded significantly, attracting customers both in the U.S. and internationally. As a result, the IT department is facing increasing demands to support the company’s growing global online presence.
 
-The manager of the IT department has decided that an internal IT audit needs to be conducted. She expresses concerns about not having a solidified plan of action to ensure business continuity and compliance, as the business grows. She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also interested in ensuring that they comply with regulations related to accepting online payments and conducting business in the European Union (E.U.).   
+Due to this growth, the IT department manager has decided to conduct an internal IT audit. She is concerned that the company does not yet have a clear plan to maintain business continuity or ensure compliance as operations expand. She believes an internal audit will help strengthen the organization’s infrastructure and allow the team to identify and reduce risks, threats, and vulnerabilities that could affect critical assets. In addition, she wants to confirm the company meets regulatory requirements related to online payment processing and doing business with customers in the European Union (E.U.).
 
-The IT manager starts by implementing the **National Institute of Standards and Technology Cybersecurity Framework** (NIST CSF), establishing an audit scope and goals, and completing a risk assessment. The goal of the audit is to provide an overview of the risks the company might experience due to the current state of their security posture. The IT manager wants to use the audit findings as evidence to obtain approval to expand his department.
+To begin, the IT manager applies the **National Institute of Standards and Technology Cybersecurity Framework (NIST CSF)** by defining the audit’s scope and goals and completing a risk assessment. The purpose of the audit is to highlight potential risks associated with the company’s current security posture, and the findings will be used to support a request for expanding the IT department.
+
 
 ------------------------
 
