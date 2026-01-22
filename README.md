@@ -23,6 +23,11 @@ classified as “high risk,” and present an overall strategy for improving the
 posture of the organization. The audit team needs to document their findings, provide
 remediation plans and efforts, and communicate with stakeholders.
 
+## Documents
+
+- [Controls and Compliance Checklist](documents/Controls%20and%20compliance%20checklist.docx)
+- [Scope, Goals, and Risk Assessment Report](documents/Botium%20Toys%20Scope,%20goals,%20and%20risk%20assessment%20report.docx)
+
 # Scenario  <a name="scenario">
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location. However, its online presence has grown, attracting customers in the U.S. and abroad. Their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
